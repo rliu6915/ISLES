@@ -1,1 +1,1 @@
-# CIS519-2022Spring-Project
+# Image Segmentation of Skin Cancer Lesion
